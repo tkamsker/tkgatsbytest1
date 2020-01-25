@@ -1,0 +1,8 @@
+{
+  "menuItems": [
+    { "name": "Heimat", "link": "/" },
+    { "name": "Über", "link": "/about" },
+    { "name": "Blog", "link": "/blog" },
+    { "name": "Kontakt", "link": "/kontakt" }
+  ]
+}

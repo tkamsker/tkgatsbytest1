@@ -1,0 +1,21 @@
+{ 
+  "home": "Heimat",
+
+  "hello": "TK multilang starter",
+  "subline": "Internationalization / i18n without third party plugins or packages for Posts and Pages. Different URLs dependending on the language. Focused on SEO, PWA, Image Optimization, Styled Components and more. This starter is also integrate with Netlify CMS to manage all pages, posts and images.",
+  "latestPosts": "Letzte Meldung(en)",
+  "category": "Kategorie", 
+  "allPosts": "Alle Meldungen",
+  "toRead": "zu lesen",
+
+  "next": "Weiter",
+  "prev": "Zurück",
+  "of": "von",
+
+  "button": "Knopf",
+
+  "aboutProject": "Diese Seite ist PWA fähig sichern sie sie.",
+  "seeMorePWA": "See more PWA here",
+  "maintainedBy": "Verwaltet von",
+  "contributeMessage": "You can always contribute with the project on"
+}
